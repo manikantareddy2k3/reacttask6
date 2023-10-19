@@ -1,0 +1,54 @@
+/* app.css */
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.profile-pic {
+  max-width: 200px;
+  border-radius: 50%;
+}
+
+.name {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+.contact {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.education {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+.skills {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 5px 0;
+}
+
+.cv-button {
+  display: inline-block;
+  background-color: #0074d9;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.cv-button:hover {
+  background-color: #0056b3;
+}
